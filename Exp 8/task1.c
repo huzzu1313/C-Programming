@@ -26,7 +26,7 @@ int main() {
 
 /*  **OUTPUT**
 
-Enter a string: ABDULLA
+Enter a string: Huzaifa
 The length of the string is: 7
 
 */
